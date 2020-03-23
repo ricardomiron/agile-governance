@@ -4,6 +4,7 @@ Best practices for virtual discussions and meetings.
 
 ## Teleconferencing / Webinars
 
+- [jitsi](https://meet.jit.si/)
 - Skype For Business
 - Zoom
 - Google Hangouts Meetup
