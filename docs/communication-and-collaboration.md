@@ -6,6 +6,7 @@ Best practices for virtual discussions and meetings.
 
 - Skype For Business
 - Zoom
+- Google Hangouts Meetup
 
 ## Collaboration
 
